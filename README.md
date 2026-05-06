@@ -23,7 +23,6 @@
 
 I'm a fullstack web developer with a passion for building polished, performant web applications. I focus on clean code, great user experiences, and shipping products that actually work.
 
-- 🔭 Currently building **Sylk Studio** — a modern web project
 - 🏢 CEO of **Estate Recoveries** · South Africa
 - 💬 Ask me about **JavaScript, React, Node.js, or fullstack architecture**
 - 📬 Reach me at **marcoschoeman1988@gmail.com**
