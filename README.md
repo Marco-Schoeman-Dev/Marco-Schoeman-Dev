@@ -43,19 +43,6 @@ I'm a fullstack web developer with a passion for building polished, performant w
 
 **Currently Learning**
 - Next.js · PostgreSQL · Docker
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-Schoeman-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Schoeman-Dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🤖 AI & Automation
